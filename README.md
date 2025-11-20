@@ -44,7 +44,6 @@ Although I’m still building and improving my repository list, I love working o
 - Web-based applications  
 - Automation models & workflow tools
 
-(Once you send me your top projects, I can update this section with project cards.)
 
 ---
 
