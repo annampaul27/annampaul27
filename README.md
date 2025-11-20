@@ -70,5 +70,5 @@ Although I’m still building and improving my repository list, I love working o
 
 ---
 ## 📫 Reach Me
-annampaul27@gmail.com | linkedin.com/in/anna-m-paul-22b160344/
+annampaul27@gmail.com | https://www.linkedin.com/in/anna-m-paul-22b160344/
 
