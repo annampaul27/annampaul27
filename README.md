@@ -2,7 +2,7 @@
 
 🎓 CS student majoring in **Data Analysis**  
 💡 Interested in **Machine Learning, AI, Web Development, and Automation**  
-🚀 Currently aiming for an **internship at a large MNC**
+🚀 Currently aiming for an **internship **
 
 ---
 
