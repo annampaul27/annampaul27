@@ -7,14 +7,9 @@
 ---
 
 ## 🌱 About Me
-I'm passionate about exploring new technologies and tools that help automate processes and solve real-world problems. I enjoy learning how systems work behind the scenes—from **system design** to **cloud architecture**, and emerging platforms like:
-
-- n8n (Automation platform)
-- Teachable Machine
-- Modern AI-driven development tools
+I'm passionate about exploring new technologies and tools that help automate processes and solve real-world problems. 
 
 ---
-
 ## 🧠 Skills & Tech Stack
 
 ### 🔹 Programming Languages
@@ -24,9 +19,8 @@ I'm passionate about exploring new technologies and tools that help automate pro
 - SQL  
 
 ### 🔹 Currently Learning
-- JavaScript  
-- React  
-- Cloud & scalable architecture principles  
+- AI Algorithms 
+- Machine Learning
 
 ---
 
@@ -34,7 +28,6 @@ I'm passionate about exploring new technologies and tools that help automate pro
 - Building intelligent systems that automate tasks  
 - Applying ML & AI to real-world problems  
 - Developing scalable web applications  
-- Growing expertise in cloud & system design
 
 ---
 
@@ -43,22 +36,6 @@ Although I’m still building and improving my repository list, I love working o
 - AI & ML projects  
 - Web-based applications  
 - Automation models & workflow tools
-
-
----
-
-## 🔭 What I'm Working On
-- Improving my web development stack (React + JS)
-- Exploring cloud environments and system architecture concepts
-- Experimenting with workflow tools like **n8n**
-- Building automation-based mini projects
-
----
-
-## 🎯 Short-Term Goals
-- Secure an internship at a major tech company  
-- Build strong industry-level portfolio projects  
-- Become confident in designing and deploying scalable applications
 
 ---
 
