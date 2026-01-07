@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anna M Paul
 
 🎓 CS student majoring in **Data Analysis**  
-💡 Interested in **Machine Learning, AI, Web Development and Data Analytics Concepts  
+💡 Interested in **Machine Learning, AI, Web Development and Data Analytics Concepts ** 
 🚀 Currently aiming for an internship
 
 ---
