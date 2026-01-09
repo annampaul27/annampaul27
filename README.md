@@ -47,7 +47,5 @@ Although I’m still building and improving my repository list, I love working o
 ---
 ## 📫 Reach Me
 anna.menachery.paul@gmail.com | https://www.linkedin.com/in/anna-m-paul-22b160344/
----
-##  View Me
-https://annampaul27.github.io/portfolio/
+
 
