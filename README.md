@@ -1,51 +1,111 @@
-# 👋 Hi, I'm Anna M Paul
+# Hi there 👋, I'm Anna M Paul
 
-🎓 CS student majoring in **Data Analysis**  
-💡 Interested in Machine Learning, AI, Web Development and Data Analytics Concepts 
-🚀 Currently aiming for an internship
-
----
-
-## 🌱 About Me
-I'm passionate about exploring new technologies and tools that help automate processes and solve real-world problems. 
-
----
-## 🧠 Skills & Tech Stack
-
-### 🔹 Programming Languages
-- C  
-- Python  
-- Java  
-- SQL  
-
-### 🔹 Currently Learning
-- AI Algorithms 
-- Machine Learning
+🎓 MSc Computer Science Student
+💻 Aspiring Software Developer | Data Analyst | Machine Learning Enthusiast
+🚀 Passionate about building intelligent applications and solving real-world problems through technology.
 
 ---
 
-## 📌 Career Interests
-- Building intelligent systems that automate tasks  
-- Applying ML & AI to real-world problems  
-- Developing scalable web applications  
+## 🌟 About Me
+
+I am a Computer Science student with a strong interest in software development, data analytics, machine learning, and artificial intelligence. I enjoy exploring emerging technologies, building practical solutions, and continuously expanding my technical skills through hands-on projects and learning experiences.
+
+I am particularly interested in developing applications that combine data-driven insights with user-friendly experiences.
 
 ---
 
-## 📚 Projects I Enjoy
-Although I’m still building and improving my repository list, I love working on:
-- AI & ML projects  
-- Web-based applications  
-- Automation models & workflow tools
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Python
+* Java
+* SQL
+* C
+* JavaScript
+
+### Web Development
+
+* Django
+* HTML5
+* CSS3
+
+### Data Science & Machine Learning
+
+* Scikit-learn
+* Pandas
+* Data Preprocessing
+* Predictive Modeling
+* Model Evaluation
+
+### Databases
+
+* MySQL
+* SQLite
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Streamlit
+* Render
+* Jira
 
 ---
 
-## 🌟 Hobbies
-📖 Reading  
-💻 Watching tech and development content  
-🧠 Exploring new tools & platforms
+## 🚀 Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Data Analytics
+* Full-Stack Web Development
+* Predictive Analytics
+* Software Engineering
 
 ---
-## 📫 Reach Me
-anna.menachery.paul@gmail.com | https://www.linkedin.com/in/anna-m-paul-22b160344/ | https://annampaul27.github.io/portfolio/
+
+## 📂 Featured Projects
+
+### 🏥 Healthcare Management System
+
+A full-stack web application designed to manage healthcare services, appointments, and patient information.
+
+### 📊 Customer Analytics & Prediction
+
+Machine learning applications focused on analyzing customer behavior and generating business insights.
+
+### ✍️ AI-Powered Writing Assistant
+
+NLP-based applications for grammar correction and text enhancement.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Machine Learning Concepts
+* AI Algorithms
+* Data Analytics Techniques
+* Scalable Web Application Development
+
+---
+
+## 📈 Goals
+
+* Contribute to impactful software and AI projects
+* Gain industry experience through internships and collaborations
+* Continuously improve problem-solving and development skills
+* Build solutions that create real-world value
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [anna.menachery.paul@gmail.com](mailto:anna.menachery.paul@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/anna-m-paul-22b160344](http://www.linkedin.com/in/anna-m-paul-22b160344)
+
+🌐 Portfolio: annampaul27.github.io/portfolio
+
+🐙 GitHub: github.com/annampaul27
 
 
